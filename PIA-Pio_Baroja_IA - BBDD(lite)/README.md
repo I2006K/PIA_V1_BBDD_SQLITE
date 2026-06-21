@@ -35,6 +35,10 @@ La mayoría de las distribuciones de Linux vienen con Git. Si no es tu caso, pue
 sudo apt update 
 sudo apt install git 
 ```
+Despues de conseguir GIT, deberemos instalar el motor de IA que impulsara nuestro programa, [ollama](https://ollama.com/download/windows), seleccione su SO y lo descargamos.
+
+En la interfaz de ollama deberemos instalar el modelo **deepseek-r1:8b** y ya estaria lista la parte de IA.
+
 ## 2. Configuración del proyecto
 Una vez instaladas todas las herramientas necesarias, procedemos a descargar el proyecto:
 
